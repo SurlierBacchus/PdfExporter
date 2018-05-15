@@ -1,0 +1,17 @@
+﻿&Zvuková informácia
+#Vysvetlite princíp digitalizácie zvuku
+%V mikrofóne je blana, ktorú zvukové vlny rozvlnia. Táto blana zatlačí na povrch pod ňou, vďaka čomu vieme zvukové vlny premeniť na elektrický signál.
+#Vysvetlite pojmy: vzorkovacia frekvencia, digitálno-analógový prevodník, samplovanie, zvuková karta
+%Vzorkovacia frekvencia - Počet meraní zvuku za sekundu, udáva sa v kHz (napr. frekvencii 11 kHz zodpovedá 11 000 meraní za sekundu)
+ Digitálno-analógový prevodník - mení digitálny zvuk na analógový.
+ Samplovanie - (Vzorkovanie) je prevod spojitých zvukových vĺn do digitálnej podoby. Zoberieme jednu vzorku zvuku za určitý interval času (podľa vzorkovacej frekvencie) a z týchto vzoriek vyskladáme digitálnu podobu zvukovej vlny. Čím je vzorkovacia frekvencia vyššia, tým sa výsledok viac podobá na skutočnú vlnu.
+#Vymenujte a charakterizujte základné typy zvukových súborov. Aký je medzi nimi rozdiel
+%Bez kompresie (.wav, .au) - zvuk nestráca kvalitu pri uložení do týchto formátov
+ So stratovou kompresiou (.mp3, .mpeg, .wma) - Zvuk zaberá menej miesta na disku za cenu nižšej kvality
+ S bezstratovou kompresiou (.flac) - Zaberajú menej miesta na disku ako bez kompresie, ale nestrácajú kvalitu
+#Čo a ako sa zmení pri uložení skladby vo formáte mp3?
+%Zníženie objemu dát sa dosahuje tým, že pri kompresii sa odstránia časti zvukovej nahrávky, ktoré ľudské ucho nepočuje.
+#Prezentujte prehrávanie zvukového súboru vami vybraným prehrávačom, predveďte nástroje, ktoré daný prehrávač poskytuje
+%
+#Aké poznáte a používate vy aplikácie na prácu so zvukom?
+%Adobe Audition, Audacity
