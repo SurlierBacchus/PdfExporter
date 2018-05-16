@@ -1,0 +1,10 @@
+﻿&Neinteraktívna komunikácia, netiketa
+#Porovnajte neinteraktívnu a interaktívnu komunikáciu
+%Interaktívne komunikácia vyžaduje akciu od oboch členov komunikácie (2 ľudia, alebo človek a počítač).
+Neinteraktívna komunikácia môže byť napríklad čítanie knihy, pozeranie filmu
+#Popíšte, z čoho sa skladá e-mailová adresa
+%Za zavináčom je doména, ktorá prevádzkuje tieto adresy a pred ním je unikátna adresa každej adresy tejto domény.
+#Ktoré zásady komunikácie v sieti by mal bežný používateľ dodržiavať?
+%Neohrozovať ostatných užívateľov (šírenie vírusov, vedomé alebo nie), nezahlcovať sieť zbytočnou komunikáciou
+#Aké sú výhody, nevýhody neinteraktívnej komunikácie (spamy, hoaxy, vírusy, hromadné e-maily, posielanie príloh, účasť v diskusných skupinách...)
+%Nevyžaduje neustálu aktivitu, každý užívateľ sa môže zapojiť, kedy mu to vyhovuje. Možnosť posielať prílohy a vírusy. Hoaxy sa môžu šíriť rovnako ako v interaktívnej

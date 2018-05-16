@@ -1,0 +1,15 @@
+﻿&Internet
+#Aké dôvody viedli k vzniku Internetu, história internetu
+%
+#Vysvetlite pojmy
+@URL
+%Uniform Resource Locator - konkrétna webová adresa
+@Poskytovateľ služieb
+%Spoločnosť, ktorá prevádzkuje infraštruktúru na prístup k internetu
+@IP adresa
+%Jedinečný identifikátor každého zariadenia pripojenom v sieti
+@HTTP
+%Hyper text transfer protocol - je protokol pre prenos html dokumentov medzi servermi a klientmi na internete
+#Popíšte, z čoho sa skladá adresa internetovej stránky
+%
+#Aká bude pravdepodobná adresa WWW stránky spoločnosti, ktorá sa zaoberá správou

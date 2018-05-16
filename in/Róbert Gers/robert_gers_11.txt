@@ -1,0 +1,15 @@
+﻿&Siete
+#Zistite, či je daný počítač pripojený do počítačovej siete
+%Do konzoly napíšem "ipconfig all"
+#Popíšte výhody a nevýhody pripojenia do počítačovej siete
+%Nevýhody - bezpečnosť, nebezpečenstvo útoku
+ Výhody - komunikácia, rýchly prenos dát
+#Ktorá z uvedených schém na zapojenie školskej siete je najmenej bezpečné a prečo?
+%
+#Akými spôsobmi možno zvýšiť bezpečnosť siete?
+%Firewall, proxy server
+#Vymenujte, aké aktívne prvky používame na prepájanie sietí a vzájomne ich porovnajte
+%
+#Vysvetlite pojmy IP adresa a DNS
+%IP adresa - štryri trojčíslia, každé zariadenie v sieti má svoju IP adresu
+DNS server - Domain Name System - ukladá domény webstránok a k nim priradené IP konkrétnych serverov

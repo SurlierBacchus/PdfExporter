@@ -1,0 +1,3 @@
+﻿&Tabuľkový kalkulátor
+#Opíšte typické príklady použitia tabuľkového kalkulátora
+%Počítanie nákladov, rozpočtu napr. malej firmy, dovolenky, keď sa viac ľudí zbiera na určitú vec (školský výlet), evidencia známok

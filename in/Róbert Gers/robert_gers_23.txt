@@ -1,0 +1,5 @@
+﻿&Digitálne video
+#Čo je to video. Akým spôsobom možno video dostať do počítača.
+%Môžme ho stiahnuť s internetu, alebo skopírovať z prenosného média (SD karta kamery, USB kľúč)
+#Aké poznáte programy na prácu s videom?
+%Adobe Premiere Pro, After Effects, Sony Vegas, Apple Final Cut Pro

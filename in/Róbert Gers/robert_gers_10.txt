@@ -1,0 +1,16 @@
+﻿&Topológia siete
+#Vysvetlite pojem počítačová sieť
+%Počítačová sieť je systém vzájomne prepojených a spolupracujúcich počítačov.
+#Vysvetlite spojenie peer to peer, server-klient
+%P2P - Komunikácia čisto medzi dvoma zariadeniami (BT myš a počítač)
+Server-klient - Komunikácia medzi serverom, ktorý je nadriadený, a počítačom
+#Vymenujte a popíšte ako rozďeľujeme počítačové siete podľa vzdialenosti. Uveďte príklady
+%WAN - Wide Area Network
+ MAN - Metropolitan Area Network
+ LAN - Local Area Network
+ PAN - Personal Area Network
+#Vymenujte, ako rozddeľujeme počítačové siete podľa topológie. Jednu podrobnejšie
+%Hviezda (najpoužívanejšie), zbernica, kruh, kocka, hyperkocka
+#Aké sú výhody a nevýhody spolupráce v sieti
+%Nevýhody - bezpečnosť, nebezpečenstvo útoku
+ Výhody - komunikácia, rýchly prenos dát

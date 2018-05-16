@@ -1,0 +1,7 @@
+﻿&Prezentačný software
+#Na snímkach použite hypertextové odkazy a vysvetlite ich výhody
+%Vieme sa nimi priamo dostať na nejakú webstránku
+#Uveďte, aké zásady pri vytváraní prezentácie treba dodržiavať
+%Text písať stručne, v bodoch, nie celé vety. Skromne s animáciami, použiť jeden font, jednu tému a farbu
+#Uveďte, kde možno prezentácie použiť v praxi
+%Prezenovanie prednášok, projektov, spoločností, seba...

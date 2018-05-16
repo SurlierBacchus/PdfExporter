@@ -1,0 +1,26 @@
+﻿&Riziká informačných technológií
+#Vymenujte jednotlivé typy škodlivého softvéru
+%malware, ransomware, adware, spyware, trójsky kôň
+#Charakterizujte pojmy
+@Vírus
+%Škodlivý softvér
+@Trójsky kôň
+%Vírus, ktorý sa tvári ako iný, neškodný program
+@Červ
+%Vírus, ktorý sa šíri z počítača na počítač (väčšinou na jednej sieti)
+@Spyware
+%Vírus, ktorý má za úlohu ukradnúť informácie, napr. prihlasovacie údaju na internet banking, heslo na mail, atď.
+@Spam
+%Nevyžiadaná pošta
+@Hoax
+%Nepravdivá správa
+@Phishing
+%Napodobenina skutočnej stránky, ktorá chce ukradnúť vaše údaje, keď si myslíte, že sa prihlasujete do skutočnej stránky
+#Ako zistím, že počítač je pravdepodobne napadnutý vírusom
+%Je spomalený, aj keď je všetko vypnuté, procesor je pomerne vyťažený, aktivita na sieti
+#Uveďte základné pravidlá užívateľskej počítačovej bezpečnosti
+%Nesťahovať súbory z neznámych stránok, nenavštivovať neoverené stránky, neklikať na nič v spam mailoch
+#Aký je princíp práce antivírusových programov
+%Kontrolujú bežiace procesy a nové súbory, a hľadajú v nich niečo, čo považujú za vírus
+#Vymenujte konkrétne antivírové programy, ktoré poznáte
+%Eset, Norton, Kaspersky, McAfee, Avast

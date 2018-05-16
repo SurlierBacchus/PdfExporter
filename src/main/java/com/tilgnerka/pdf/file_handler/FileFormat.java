@@ -5,48 +5,42 @@ public class FileFormat {
     private char topicID;
     private char questionID;
     private char answerID;
+    private char subQuestionID;
 
-    public FileFormat(String title, char topicID, char questionID, char answerID) {
+    private String IDs;
+
+    public FileFormat(String title, char topicID, char questionID, char answerID, char subQuestionID) {
         this.title = title;
         this.topicID = topicID;
         this.questionID = questionID;
         this.answerID = answerID;
+        this.subQuestionID = subQuestionID;
+
+        IDs = String.valueOf(topicID) + String.valueOf(questionID) + String.valueOf(answerID) + String.valueOf(subQuestionID);
     }
 
     public String getTitle() {
         return title;
     }
 
-    public void setTitle(String title) {
-        this.title = title;
-    }
-
     public char getTopicID() {
         return topicID;
-    }
-
-    public void setTopicID(char topicID) {
-        this.topicID = topicID;
     }
 
     public char getQuestionID() {
         return questionID;
     }
 
-    public void setQuestionID(char questionID) {
-        this.questionID = questionID;
-    }
-
     public char getAnswerID() {
         return answerID;
     }
 
-    public void setAnswerID(char answerID) {
-        this.answerID = answerID;
+    public char getSubQuestionID() {
+        return subQuestionID;
     }
 
     public String getIDs() {
-        return String.valueOf(topicID) + String.valueOf(questionID) + String.valueOf(answerID);
+        return IDs;
     }
 }
 

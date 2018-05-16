@@ -1,0 +1,5 @@
+﻿&Formátovanie textu
+#Vysvetlite pojem textové editory
+%Textový editor je softvér určený na vytváranie a úpravu textových dokumentov (napr. Notepad). Na rozdiel od textových procesorov (napr. MS Word), s ktorými sa často mylne zamieňajú, im chýba schopnosť meniť vzhľad dokumentu.
+#Predstavte prostredie ľubovoľného textového editora a na konkrétnej úlohe ukážte možnosti, ktoré poskytuje.
+%

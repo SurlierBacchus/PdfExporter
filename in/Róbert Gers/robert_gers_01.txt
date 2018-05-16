@@ -1,0 +1,22 @@
+﻿&Proces vývoja programu
+#Čo rozumiete pod pojmom algoritmus?
+%Algoritmus je konečná postupnosť presne určených krokov na splenenie určitej úlohy.
+#Aké vlastnosti má spĺňať správny algoritmus?
+%Konečnosť - Každý algoritmus musí skončiť po vykonaní konečného počtu krokov. Tento počet krokov môže byť ľubovoľne veľký, ale pre každý vstup musí byť konečný.
+ Determinizmus - Každý krok algoritmu musí byť jednoznačne a presne definovaný. V každej situácii musí byť úplne zrejmé, čo a ako sa má vykonať, ako má vykonávanie algoritmu pokračovať.
+ Elementárnosť - Problém je rozdelený na viacero malých jednoduchých krokov, ktoré sú zrozumiteľnejšie
+#Uveďte algoritmus z každodenného života
+%Recept na varenie - presne určuje kroky a ich poradie, ktoré treba vykonať, aby sme dosiahli želaný výsledok
+#Opíšte jednotlivé etapy pri riešení problému
+%Rozbor problému - zistiť a špecifikovať čo treba riešiť
+ Návrh riešenia - v teórii rozobrať problém a predbežne navrhnúť potrebný algoritmus
+ Realizácia - Prepis návrhu do programovacieho jazyka
+ Testovanie a oprava nájdených chýb
+#Vysvetlite pojmy syntax, programovací jazyk, kompilátor
+%Syntax - Súbor pravidiel, ktoré určujú presné usporiadanie znakov, ktoré sú považované za správne formátované v danom programovacom jazyku.
+ Programovací jazyk - Nástroj na systematický opis krokov potrebných na vykonanie daného algoritmu.
+ Kompilátor - Prekladač, ktorý prekladá kód z programovacieho jazyka čitateľného ľuďmi (zdrojový kód) na strojový kód čitateľný počítačom.
+#Aké typy chýb je možné odhaliť počas prekladu kompilátorom
+%Syntaktické - Zle naformátovaný kód, nedodržuje syntaktické pravidlá daného jazyka
+#Uveďte zásady, ktoré by mal správne vytvorený program spĺnať
+%Mal by produkovať správny výsledok, skončiť, byť efektívny, čitateľný, pripravený na zmeny v budúcnosti

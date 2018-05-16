@@ -1,0 +1,3 @@
+﻿&Štýly a formátovanie v textovom editore
+#Objasnite výhody používania štýlov a formátovania v texte
+%Dokument je prehľadnejší, vieme vytvoriť obsah, keď chceme zmeniť formátovanie všetkých nadpisov, stačí to zmeniť štýl a automaticky sa zmenia všetky.

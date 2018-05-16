@@ -1,0 +1,13 @@
+﻿&Multimédia
+#Aké vlastnosti by mal mať multimediálny počítač
+%Vie odovzdávať informácie vo viacerých formách, najčastejšie zvuk a obraz
+#Čo rozumieme pod pojmom multimediálny program
+%Ako výstup používa viaceré média, napr. zvuk a obraz
+#Opíšte možnosti použitia multimediálnych programov v domácnosti, v spoločnosti, aj pri vzdelávaní
+%Pozeranie filmov, seriálov, počúvanie hudby, komunikácia (hovor s webkamerou), tutoriály, lekcie na internete
+#Uveďte príklad multimediálnej počítačovej hry
+%Counter Strike: Global Offensive
+#Popíšte, ako sa dá počítač použiť na relax a zábavu
+%Pozeranie filmov, seriálov, počúvanie hudby, hranie hier
+#Vymenujte, ktoré ďalšie multimediálne zariadenia poznáte
+%Smartfón, televízor, tablet

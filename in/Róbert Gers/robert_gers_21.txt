@@ -1,0 +1,12 @@
+﻿&Informačné a komunikačné technológie
+#Aké výhody a nevýhody prináša hromadný prístup k internetu jednotlivcom a aký to má vplyv na život spoloènosti?
+%Človek má instantný prístup k obrovskému množstvu informácii, môže sa rýchlo, jendoducho a lacno vzdelávať na akúkoľvek tému.
+Rýchle šírenie informácií však prináša aj zvýšené riziko širenia hoaxov. Anonymita internetových užívateľov uľahčuje aj kriminálne aktivity, obchod s drogami, zbraňami, objednávanie vraždy, atď.
+#Ako súvisia informácie s procesom globalizácie sveta?
+%Všetci majú prístup k rovnakým informáciam, takže nikto nie je znevýhodnený a všetci si postupne vytvárajú podobné názory, čo rozdielne kultúry zbližuje
+#V ktorých oblastiach každodenného života sa využívajú informačné a komunikačné technológie?
+%Zábava, cestovanie, podnikanie, vzdelávanie, zdravotníctvo, komunikácia
+#Vymenuj povolania, ktoré súvisia s vyštudovaním informatiky a používaním počítačov
+%Softvérový inžinier, architekt, data analyst, web developer, správca serverov, návrh komponentov počítača (procesory atď), výskumník
+#Ktoré zásady ergonómie je potrebné pri práci s informaènými technológiami dodržiavať?
+%Mať pohodlnú stoličku, nesedieť skrčene a dlho v kuse, nemať monitor výrazne svetlejší ako okolité prostredie.

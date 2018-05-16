@@ -1,0 +1,21 @@
+﻿&Počítačová grafika
+#Charakterizujte rastrovú a vektorovú grafiku, porovnajte ich výhody a nevýhody
+%Rastrová grafika - spôsob uloženia grafickej informácie opisom jednotlivých bodov usporiadaných v myslenej mriežke.
+Každý bod (pixel) má v mriežke určenú svoju presnú polohu, farbu a iné parametre, napr. priehľadnosť (alfa kanál). Množstvo použitých bitov potrebných na opis závisí od zvolenej farebnej hĺbky.
+Napr. ak je použitá len čierna a biela farba, stačí na opis farby jedného bodu jeden bit.
+Vektorová grafika - Vektorová grafika označuje spôsob definovania obrazových informácií pomocou základných geometrických tvarov, akými sú bod, úsečka (vektor), priamka, krivka, mnohouholník, ktoré sa dajú vyjadriť matematickými rovnicami.
+Jeho výhodou je, že aj pri zväčšení rozlíšenia si zachováva všetky detaily.
+#Vysvetlite ako sa kóduje v počítači grafická informácia, uveďte niektoré spôsoby kódovania farieb
+%Na kódovanie grafickej informácie sa použivajú dva základné princípy - rastrový a vektorový, vysvetlené vyššie.
+Na  kódovanie farieb sa používajú rôzne systémy, napr. RGB, RGBA, CMYK, HSB, HSL
+#Vytvorte v grafickom editore geometrický útvar, ktorý bude mať farbu v RGB kódovaní (123, 23, 116)
+%
+#RGB, CMYK
+%RGB - red, green, blue
+kóduje farby pomocou kombinácie troch základných farieb každej 8 bitmi. Môže byť zapísaný v decimálnej (255, 0, 255) alebo hexadecimálnej (FF00FF) sústave.
+CMYK - cyan, magenta, yellow, key (čierna)
+kóduje farby odčítavaním týchto štyroch hodnôt. Teda pri kombinácii všetkých 4 dostaneme čiernu, narozdiel od bielej pri RGB.
+#Porovnajte výhody a nevýhody použitia rôznych grafických grafických formátov, demonštrujte na príklade súborov v prečinku maturita\4. Aké ďaľšie formáty by sme ešte mohli požiť? Porovnajte s predchádzajúcimi typmi.
+%
+#Uveďte niektoré aplikácie na spracovanie grafickej informácie. S ktorými máte najlepšie skúsenosti?
+%MS Skicár, Adobe Photoshop, Adobe Illustrator

@@ -1,0 +1,14 @@
+﻿&Internet
+#Uveďte najbežnejšie typy pripojenia do Internetu, jedno podrobnejšie
+%WiFi, Ethernet, BT, GSM
+WiFi je WLAN (Wireless Local Area Network) založená na IEEE 802.11 štandardoch. Vysiela signál na 2,4 alebo 5 GHz frekvenciach
+#Vysvetlite pojem prenosová rýchlosť a poskytovateľ služieb internetu
+%Prenosová rýchlosť udáva aký objem dát sa prenesie za jednotku času. Základnou jednotkou je bit za sekundu - b/s
+Poskytovateľ služieb internetu - spoločnosť, ktorá prevádzkuje infraštruktúru na prístup k internetu
+#Čo môže byť dôvodom pomalého načítavania stránok?
+%Slabý výkon zariadenia, preťažený server, strata paketov, chyba v routeri
+#Charakterizujte pojem webový prehliadač
+%Softvér, ktorý konvertuje HTML kód do vizuálnej podoby
+#Aké sú výhody a nevýhody optického kábla?
+%Výhody - rýchlosť prenosu dát aj na veľké vzdialenosti
+Nevýhody - potreba opakovača po určitej vzdialenosti, cena

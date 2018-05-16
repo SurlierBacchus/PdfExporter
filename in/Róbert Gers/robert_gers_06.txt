@@ -1,0 +1,13 @@
+﻿&Základné komponenty počítača
+#Charakterizujte hardvér.
+%Hardvér je fyzická stránka (t. j. všetky hmotné - čiže tzv. technické komponenty) počítača a jeho doplnkov. Opakom je softvér.
+#Vymenujte a charakterizujte jednotliví časti počítača von Neumannovského typu.
+%Vstupné a výstupné zariadenia, logická jednotka, pamäťová jednotka.
+#Demonštrujte základné komponenty počítača na priloženom, otvorenom staršom type počítača.
+%
+#Opíšte podrobnejšie činnosť niektorého z nich.
+%
+#Zistite a zhodnoťte parametre počítača, za ktorým sedíte. Nájdite na internete ľubovoľnú ponuku počítačovej zostavy a porovnajte ju s parametrami počítača, za ktorým sedéte.
+%
+#Akými kritériami by ste sa riadili pri nákupe počítača?
+%Výkon procesora a grafickej karty, cena, pri laptope veľkosť a hmotnosť

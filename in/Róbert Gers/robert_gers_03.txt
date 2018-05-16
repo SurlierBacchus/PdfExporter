@@ -1,0 +1,29 @@
+﻿&Údaj, informácia, digitalizácia
+#Vysvetlite pojmy údaj, informácia
+%Údaj je základný prvok (stavebná jednotka) informácie. Údaj je nedeliteľný. Údajmi môžu byť písmená,
+čísla, znaky, prípadne ich kombinácie. Údaje sa stávajú informáciami, ak sa použijú na riešenie nejakého
+problému. Ak nám daný údaj nepovie nič nového, hovoríme, že jeho informačný obsah je nulový.
+#Reprezentácia údajov v počítači
+%Informácie zapisuje počítač na disk vo forme jednotiek a núl.
+#Základná jednotka informácie
+%Najmenšia jednotka informácie je bit (0 alebo 1). Na zaznamenanie zložitejších údajov potrebujeme viac bitov. 
+8 bitov (b) = 1 byte (B)
+1 KB = 1 000 B (10^3)
+1 MB = 1 000 000 B (10^6)
+1 KiB = 1024 B (2^10)
+1 MiB = 1 048 576 B (2^20)
+#Máme obrázok veľkosti 640 x 480 bodov. Vypočítajte, aký veľký bude (v KB) nekomprimovaný súbor obrázka,
+ak každý bod môže byť zafarbený
+@bielou alebo čiernou
+%640 * 480 = 307 200. Máme 307 200 bodov, z ktorých každý môže byť čierny alebo biely (0 alebo 1), takže potrebuje presne 1 bit.
+307 200 / 8 / 1000 = 38,4 KB.
+@jednou z 256 farieb
+%256 = 2^8. Na každý bod potrebujeme 8 bitov = 1 byte.
+307 200 / 1000 = 307,2 KB
+@jednou zo 16 farieb
+%16 = 2^4. Na každý bod potrebujeme 4 bity.
+307 200 * 4 / 8 / 1000 = 153,6 KB
+@High colour (bod = 16 bitov)
+%307 200 * 16 / 8 / 1000 = 614,4 KB
+@True colour (bod = 24 bitov)
+%307 200 * 24 / 8 / 1000 = 921,6 KB

@@ -1,0 +1,20 @@
+﻿&História počítačov a základné princípy práce počítača
+#Prvé počítače - na aký účel boli pôvodné zostrojené
+%Na pomoc pri rôznych výpočtoch, mali nahradiť mechanické kalkulačky.
+#Uveďte dôležité medzníky vo vývoji počítačov
+%-manuálne mechanické počítadla
+-automatické mechanické počítadla
+-elektrónky a dierna páska
+-výmena elektróniek za tranzistory
+-integrované obvody
+-mikroprocesory
+#Nájdi na internete obrázok prvého elektrónkového počítača
+%https://www.extremetech.com/wp-content/uploads/2012/11/harwell-witch-computer-old.jpg
+#Vymenujte základné časti počítača von Neumannovského typu
+%Aritmeticko-Logická jednotka, Operačná pamäť, Vstupné zariadenie, Výstupné zariadenie
+#Demonštrujte jednotlivé časti počítača na priloženom, otvorenom staršom type počítača
+%
+#Čo možno očakávať od vývoja výpočtovej techniky v budúcnosti
+%Vyšší výkon, menšie rozmery, menšie teplotné straty -> výkonné počítače veľkosti mobilu
+Vyšší výkon umožňujúci rozvoj umelej inteligencie
+Kvantové počítače

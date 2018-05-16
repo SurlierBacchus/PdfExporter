@@ -1,0 +1,7 @@
+﻿&Hromadná korešpondencia, ASCII
+#Vysvetlite pojmy:
+@ASCII kód
+%American Standard Code for Information Interchange
+je kódovanie znakov pomocou číselných indexov. Väčšina moderných počítačoch používa kódovanie založené na ASCII, s viac znakmi.
+@UNI kód
+%Najpoužívanejší systém kódovania znakov, má rôzne druhy, napr. UTF-8 (každý znak má 8 bitov), UTF-16 (16 bitov), UTF-32 (32 bitov).

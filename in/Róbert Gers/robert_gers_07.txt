@@ -1,0 +1,12 @@
+﻿&Prídavné zariadenia
+#Vysvetlite pojem hardvér
+%Hardvér je fyzická stránka (t. j. všetky hmotné - čiže tzv. technické komponenty) počítača a jeho doplnkov. Opakom je softvér.
+#Rozdeľte prídavné zariadenia poľa vstupu a výstupu údajov
+%Vstupné: klávesnica, myš, touchpad, kamera, rôzne senzory
+Výstupné: displej, reproduktor, tlačiareň
+#Aké je ich využitie pri zbere, spracovaní, uchovávaní a prezentácii údajov?
+%Slúžia ako akýsi prostredník medzi počítačom a okolitým prostredím. Tieto zariadenia sú jediný spôsob, ako dokáže počítač komunikovať s prostredím.
+#Opíšte (predveďte) princíp čínnosti niektorého z nich
+%
+#Navrhnite počítačovú zostavu pre kamaráta (s prídavnými zariadeniami), ktorého záľubou je fotografovanie (vlastní klasický digitálny fotoaparát) a chce si vytvárať fotoalbum (aj v počítači). Výber zdôvodnite
+%

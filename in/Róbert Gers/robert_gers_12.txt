@@ -1,0 +1,12 @@
+﻿&Textový editor, softvér
+#Čo je to softvér, rozdeľte ho podľa typu spracovaných údajov (podľa oblasti použitia)
+%Softvér je súhrn všetkých programov, ktoré sa dajú použiť na výpočtovom zariadení. Na rozdiel od hardvéru má nemateriálnu povahu.
+Rozlišujeme aplikačný softvér (užívateľ s ním priamo pracuje) a systémový softvér (beží na pozadí, bez priameho zásahu úžívateľa)
+#Uveďte najznámejšie príklady softvéru v jednotlivých oblastiach a demonštrujte, aké typy sú zastúpené na školskom počítači
+%
+#Aký softvér by ste použili na vytvorenie ponukového listu zájazdov cestnej kancelárie
+%MS Word
+#Pomôžte pracovníkom CK upraviť stranu ponukového katalógu zájazdov tak, aby sa klient v nej dokázal rýchlo zorientovať, aby bola prehľadná a atraktívna
+%
+Prezentujte spôsoby úpravy a formátovania textu v textovom editore, ukážte spôsoby zarovnávania odstavcov, obtekanie obrázkov, vkladanie objektov, vložte vhodnú hlavičku, dole číslo strany
+%

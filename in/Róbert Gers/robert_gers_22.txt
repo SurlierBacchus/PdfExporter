@@ -1,0 +1,21 @@
+﻿&Autorské práva
+#Vysvetlite pojmy
+@Freeware
+%Programy, ktoré sú zadarmo, ale ich kód je zavretý, nevieme ich upravovať
+@Shareware
+%Softvér, ktorý je možno zadarmo zdielať (napr. na webstránkach, v časopisoch), väčšinou to však nie je plná verzia, ktorú si treba potom kúpiť
+@Demoverzia
+%Skúšobná verzia softvéru, má určite časti zablokované, alebo funguje len určitú dobu, a potom je potrebné kúpiť plnú verziu.
+@Open source
+%Softvér zadarmo prístupný všetkým s otvoreným kódom, takže každý ho vie upravovať, vďaka čomu sa veľmi rýchlo vychytajú všetky chyby. Zdieľa na stránkach ako napr. Github
+#Aké sú výhody a nevýhody otvorených systémov a programov?
+%Sú prístupné všetkým, kominuta užívateľov z nich spoločne vytiahne maximum. Keďže sú zadarmo, nemôžu si dovoliť marketing, veľa serverov alebo spoluprácu s veľkými spoločnosťami.
+#Aký je rozdiel medzi single a multilicenciou?
+%Multilicenčný softvér má viacero licenčných podmienok pre rôznych používateľov, napr. pre jednotlivcov a pre firmy.
+#Prečo je dôležitá aj právna ochrana programov, aké sú dôsledky pri používaní nelegálneho softwéru?
+%Distribútori softvéru potrebujú zapezpečiť, aby sa nešírili nelegálne bezplatné kópie ich softvéru.
+Zo zákona sú za to finančné pokuty, v praxi sa to však týka len firiem.
+#Používate doma nejaký konkrétny freeware? Ktorý?
+%Google Chrome, iTunes, Discord
+#Nájdite na internete softvér, ktorý je freeware alebo shareware a zaraďte ho do konrétnej oblasti použitia softvéru
+%Google Chrome
